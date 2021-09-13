@@ -60,6 +60,7 @@ article {
 article figure {
   width: 39%;
   margin: 0 0 1.25em 1.25em;
+  margin-left: auto;
 }
 article figcaption {
 }
