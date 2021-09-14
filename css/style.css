@@ -71,6 +71,9 @@ article figure {
 
 }
 article figcaption {
+  font-size: 15px;
+  font-weight:200;
+
 }
 .pagination {
   margin-top: 2em;
