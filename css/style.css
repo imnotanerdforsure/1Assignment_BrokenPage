@@ -66,6 +66,13 @@ article {
   line-height: 1.3;
   margin: auto;
 }
+.dropcap{
+  float: left;
+  line-height: 85%;
+  width: .7em;
+  font-size: 400%;
+  font-family: georgia;
+}
 article figure {
   width: 39%;
   margin: 0 0 1.25em 1.25em;
