@@ -76,9 +76,13 @@ article figcaption {
 
 }
 .pagination {
+margin: auto;
   margin-top: 2em;
   margin-bottom: 2em;
   width: 96%;
+display: flex;
+justify-content: space-around;
+
 }
 a.button {
   border: 1px solid #888;
