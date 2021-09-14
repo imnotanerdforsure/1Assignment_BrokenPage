@@ -48,9 +48,14 @@ header img {
 header h1 {
   margin: 0 auto;
   padding: 0 auto;
+  font-weight: 900;
+  font-family: Lato; sans-serif;
+  text-align: center;
 }
 .small {
   margin-top: 1em;
+  font-weight: 500;
+  font-size: 25px
 }
 /*-- Article Styles--*/
 article {
