@@ -11,7 +11,7 @@ p {
   margin-bottom: .67em;
 }
 nav, footer {
-  background-color: #484f4f;
+  background-color: black;
 }
 footer {
   text-align: center;
@@ -87,14 +87,14 @@ justify-content: space-around;
 
 }
 a.button {
-  border: 1px solid #888;
+  border: 3px solid #888;
   padding: .4em 1em .4em 1em;
   text-decoration: none;
   color: #888;
   border-radius: 200px;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
-  font-size: 80%;
+  font-size: 120%;
 
 }
 a.button:hover, a.button:active {
